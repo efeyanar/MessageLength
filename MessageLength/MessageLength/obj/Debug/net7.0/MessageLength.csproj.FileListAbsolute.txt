@@ -1,0 +1,15 @@
+/Users/efe/Projects/MessageLength/MessageLength/bin/Debug/net7.0/MessageLength
+/Users/efe/Projects/MessageLength/MessageLength/bin/Debug/net7.0/MessageLength.deps.json
+/Users/efe/Projects/MessageLength/MessageLength/bin/Debug/net7.0/MessageLength.runtimeconfig.json
+/Users/efe/Projects/MessageLength/MessageLength/bin/Debug/net7.0/MessageLength.dll
+/Users/efe/Projects/MessageLength/MessageLength/bin/Debug/net7.0/MessageLength.pdb
+/Users/efe/Projects/MessageLength/MessageLength/obj/Debug/net7.0/MessageLength.csproj.AssemblyReference.cache
+/Users/efe/Projects/MessageLength/MessageLength/obj/Debug/net7.0/MessageLength.GeneratedMSBuildEditorConfig.editorconfig
+/Users/efe/Projects/MessageLength/MessageLength/obj/Debug/net7.0/MessageLength.AssemblyInfoInputs.cache
+/Users/efe/Projects/MessageLength/MessageLength/obj/Debug/net7.0/MessageLength.AssemblyInfo.cs
+/Users/efe/Projects/MessageLength/MessageLength/obj/Debug/net7.0/MessageLength.csproj.CoreCompileInputs.cache
+/Users/efe/Projects/MessageLength/MessageLength/obj/Debug/net7.0/MessageLength.dll
+/Users/efe/Projects/MessageLength/MessageLength/obj/Debug/net7.0/refint/MessageLength.dll
+/Users/efe/Projects/MessageLength/MessageLength/obj/Debug/net7.0/MessageLength.pdb
+/Users/efe/Projects/MessageLength/MessageLength/obj/Debug/net7.0/MessageLength.genruntimeconfig.cache
+/Users/efe/Projects/MessageLength/MessageLength/obj/Debug/net7.0/ref/MessageLength.dll
